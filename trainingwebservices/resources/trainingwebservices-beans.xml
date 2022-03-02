@@ -179,6 +179,12 @@
 		<property name="salary" type="String"/>
 	</bean>
 	
+<!-- 	<bean class="com.training.trainingwebservices.dto.AccentureWSDTO">
+		<property name="id" type="String"/>
+		<property name="domain" type="String"/>
+		<property name="salary" type="String"/>
+	</bean> -->
+	
 <!-- 	<bean class="com.training.trainingwebservices.dto.AccentureListWSDTO">
 		<property name="accenture" type="java.util.List&lt;com.training.trainingwebservices.dto.AccentureWSDTO>"></property>
 	</bean> -->
