@@ -163,7 +163,7 @@
         		</attributes>
         	</itemtype>
         	
-    <!-- 	<itemtype code="Tata" autocreate="true" generate="true">
+    	<itemtype code="Tata" autocreate="true" generate="true">
         		<deployment table="tata" typecode="10509"></deployment>
         		<attributes>
         			<attribute type="java.lang.String" qualifier="id" >
@@ -179,7 +179,7 @@
         			<modifiers optional="false"/>
         			</attribute>
         		</attributes>
-        	</itemtype>     -->    
+        	</itemtype>      
         
         </typegroup>
         
